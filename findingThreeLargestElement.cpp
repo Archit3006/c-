@@ -1,3 +1,7 @@
+
+
+//in this program we will find three largest element in an array.
+
 #include <iostream>
 using namespace std;
 
